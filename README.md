@@ -1,6 +1,6 @@
 ### Hi there, I'm Milan Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:nitinranganath@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:mvmilanjain@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milan-j-8375ab55/)
 [![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=flat-square&logo=dev-dot-to&logoColor=white)](https://dev.to/mvmilanjain)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/milanjain2189)
@@ -20,7 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning Dockers and Kubernetes on [Udemy](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [dev.to](https://dev.to/mvmilanjain);
-- 📫 How to reach me: mvmilanjain@gmail;
+- 📫 How to reach me: [mvmilanjain@gmail](mailto:mvmilanjain@gmail);
 
 </br>
 
