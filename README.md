@@ -7,14 +7,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/milanjain2189/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/maddy2189)
 
+<hr>
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mvmilanjain.mvmilanjain)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a Full Stack Software Engineer and writer. I love programming, writing, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-  
 
-**Talking about Personal Stuffs:**
+<hr>
+
+### Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on something cool;
 - 🚀 I’m currently learning Dockers and Kubernetes on [Udemy](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/);
@@ -22,9 +25,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📝 I regulary write articles on [dev.to](https://dev.to/mvmilanjain);
 - 📫 How to reach me: [mvmilanjain@gmail](mailto:mvmilanjain@gmail);
 
-</br>
+<hr>
 
-📈 **My GitHub Stats:**
+### 📈 My GitHub Stats:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvmilanjain&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
