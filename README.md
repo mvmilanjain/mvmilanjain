@@ -23,7 +23,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning Dockers and Kubernetes on [Udemy](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [dev.to](https://dev.to/mvmilanjain);
-- 📫 How to reach me: [mvmilanjain@gmail](mailto:mvmilanjain@gmail);
+- 📫 How to reach me: [mvmilanjain@gmail.com](mailto:mvmilanjain@gmail.com);
 
 <hr>
 
